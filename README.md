@@ -31,6 +31,6 @@ The approaches used to create and understand the conversion paths of the visitor
 
 # Results: 
 
-For the detailed results, please refer to this file:Conversion_Paths_Analysis_Github_Version.ipynb 
+For the detailed results, please refer to this file: <a href:'https://github.com/aadamante/conversion_paths_sql_python/blob/main/Conversion_Paths_Analysis_Github_Version.ipynb'> Conversion_Paths_Analysis_Github_Version.ipynb </a>
 
 
