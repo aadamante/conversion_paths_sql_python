@@ -13,7 +13,7 @@ This project uses public data from Google Merchandise Store available as a sampl
   - Traffic source (where website visitors come from) such as organic traffic, direct traffic, referral traffic, paid search traffic,etc. 
   - Transactional data: information about the transactions that occur on the Google Store website such as transaction ID, transaction revenue, transaction tax, etc. 
  
-The data can be found here https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic&project=practice-250123&ws=!1m9!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801!1m3!3m2!1sbigquery-public-data!2sgoogle_analytics_sample&d=google_analytics_sample&p=bigquery-public-data&page=dataset
+The data can be found <a href='https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic&project=practice-250123&ws=!1m9!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801!1m3!3m2!1sbigquery-public-data!2sgoogle_analytics_sample&d=google_analytics_sample&p=bigquery-public-data&page=dataset'>here</a>
 
 # Technical Overview:
 
