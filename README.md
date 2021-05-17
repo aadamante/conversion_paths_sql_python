@@ -2,7 +2,7 @@
 
 # Project Overview:
 
-The objective of this project is to garner insights into the customer journey that led customers to purchase in the past30 days. It considers a 90-day conversion window to spot all the interactions (channel entry points) visitors have had with the e-commerce until placing their order - referred to as conversion path in this project.
+The objective of this project is to garner insights into the customer journey that led customers to purchase in the past 30 days. It considers a 90-day conversion window to spot all the interactions (channel entry points) visitors have had with the e-commerce until placing their order - referred to as conversion path in this project.
 
 Understanding the customer journey is valuable for business as they can know which communication touchpoints are bringing more revenue and how the company can enhance the channels that have the least contribution to the number of transactions and revenue.
 
